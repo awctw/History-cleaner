@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Browser History Cleaner",
+  "description": "This extension will clear browser history, cache, and cookies with one click",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+
+  "icons":{
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+
+  "permissions": [
+    "browsingData"
+  ]
+}

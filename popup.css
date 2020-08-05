@@ -1,0 +1,40 @@
+body h1{
+    color: #000000;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 1%;
+    margin-right: 8px;
+    position: absolute;
+    bottom: 50px;
+}
+
+button{
+    font-family: "Arial", Helvetica, sans-serif;
+    border-radius: 12px;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 5%;
+    font-size: 13px;
+}
+
+body{
+    text-align: center;
+    width: 150px;
+    height: 100px;
+}
+
+hr.dashed{
+    border-top: 3px dashed #bbb;
+    position: relative;
+}
+
+img{
+    opacity: 0.2;
+}
+
+div{
+    position: relative;
+    bottom: 2px;
+    right: 45px;
+}
